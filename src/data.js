@@ -1,0 +1,18 @@
+export const initialInventory = [
+  { id: 1, name: 'ALFA COOKIES', openingStock: 100, received: 0, consumed: 0, unit: 'pcs' },
+  { id: 2, name: 'Ever Fresh Maida', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 3, name: 'KK MAIDA', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 4, name: 'G.SUGAR', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 5, name: 'M.SUGAR', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 6, name: 'MILK MAID', openingStock: 100, received: 0, consumed: 0, unit: 'L' },
+  { id: 7, name: 'VANILLA POWDER', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 8, name: 'GLOCUS', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 9, name: 'AMUL SPRAY', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 10, name: 'AMUL MILK', openingStock: 100, received: 0, consumed: 0, unit: 'L' },
+  { id: 11, name: 'GOODLIFE', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 12, name: 'GOODDAY', openingStock: 100, received: 0, consumed: 0, unit: 'pcs' },
+  { id: 13, name: 'CORNFLOR', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 14, name: 'SALT', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 15, name: 'ILAICHI', openingStock: 100, received: 0, consumed: 0, unit: 'kg' },
+  { id: 16, name: 'OIL', openingStock: 100, received: 0, consumed: 0, unit: 'L' },
+];
